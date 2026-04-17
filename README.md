@@ -57,7 +57,7 @@
 本项目在开发过程中使用了以下资源，特此致谢：
 
 * **核心音乐 (BGM)**:
-    * **歌曲名称**: 《(You're the) Devil in Disguise》
+    * **歌曲名称**: 《Devil in Disguise》
     * **用途**: 本项目核心节奏关卡曲目。
 * **UI 界面素材 (GUI Assets)**:
     * **Silent - Game GUI Asset**: 由 [Prinbles](https://prinbles.itch.io/) 开发。
