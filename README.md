@@ -60,9 +60,9 @@
     * **歌曲名称**: 《Devil in Disguise》
     * **用途**: 本项目核心节奏关卡曲目。
 * **UI 界面素材 (GUI Assets)**:
-    * **Silent - Game GUI Asset**: 由 [Prinbles](https://prinbles.itch.io/) 开发。
+    * **Silent - Game GUI Asset**: 由 [Prinbles](https://prinbles.itch.io/silent) 开发。
 * **音效素材 (SFX Assets)**:
-    * **Universal UI/Menu Soundpack**: 由 [Cyrex Studios](https://cyrex-studios.itch.io/) 开发。
+    * **Universal UI/Menu Soundpack**: 由 [Cyrex Studios](https://cyrex-studios.itch.io/universal-ui-soundpack) 开发。
 * **模型与动画 (Models & Animations)**:
     * 角色模型与舞蹈动作：源自 [Mixamo (Adobe)](https://www.mixamo.com/)。
 
